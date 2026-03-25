@@ -1,1 +1,1 @@
-# Second test PR for Konflux Production Approval Dashboard
+# Second test PR - CI trigger update
